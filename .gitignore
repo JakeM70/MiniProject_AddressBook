@@ -1,0 +1,8 @@
+# Java
+*.class
+# Eclipse
+.settings/
+.buildpath
+.classpath
+.project
+*/META-INF/*
