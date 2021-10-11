@@ -6,3 +6,4 @@
 .classpath
 .project
 */META-INF/*
+/target/
